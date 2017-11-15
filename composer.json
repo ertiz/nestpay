@@ -17,6 +17,7 @@
     "autoload": {
         "psr-4": { "Omnipay\\Nestpay\\" : "src/" }
     },
+    "minimum-stability": "dev",
     "require": {
         "omnipay/common": "~3.0"
     }
